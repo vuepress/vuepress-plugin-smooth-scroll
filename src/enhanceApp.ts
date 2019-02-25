@@ -1,10 +1,7 @@
 import { Route } from 'vue-router'
-import smoothscroll from 'smoothscroll-polyfill'
 import '../styles/index.styl'
 
 export default ({ Vue, router }) => {
-  smoothscroll.polyfill()
-
   router.options.scrollBehavior = (to: Route, from: Route, savedPosition: { x: number, y: number} | null) => {
     if (savedPosition) {
       return window.scrollTo({
