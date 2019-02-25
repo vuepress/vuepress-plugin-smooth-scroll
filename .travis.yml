@@ -9,6 +9,7 @@ install:
   - yarn
 
 script:
+  - yarn build
   - yarn docs:build
 
 after_success:
