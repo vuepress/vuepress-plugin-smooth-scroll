@@ -1,0 +1,17 @@
+.circleci/
+.temp/
+.vscode/
+docs/
+docs-dist/
+src/
+.editorconfig
+.eslint*
+.gitattributes
+.gitignore
+.travis.yml
+tsconfig.json
+yarn.lock
+
+npm-debug.log
+yarn-debug.log
+yarn-error.log

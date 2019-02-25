@@ -1,0 +1,12 @@
+.temp
+.DS_Store
+node_modules
+
+# Log files
+*.log
+
+# Editor directories and files
+.vscode
+
+docs-dist/
+lib/
