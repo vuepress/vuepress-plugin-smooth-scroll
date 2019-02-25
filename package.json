@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-smooth-scroll",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vuepress plugin for smooth scrolling",
   "main": "lib/index.js",
   "repository": {
@@ -23,8 +23,7 @@
     "build": "rimraf lib types && tsc -p tsconfig.json",
     "docs:dev": "vuepress dev docs --temp .temp",
     "docs:build": "vuepress build docs --dest docs-dist",
-    "lint": "eslint --ext .ts src/",
-    "postinstall": "yarn build"
+    "lint": "eslint --ext .ts src/"
   },
   "husky": {
     "hooks": {
