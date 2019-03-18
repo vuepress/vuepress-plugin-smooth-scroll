@@ -10,7 +10,7 @@ module.exports = {
   },
 
   themeConfig: {
-    repo: 'meteorlxy/vuepress-plugin-smooth-scroll',
+    repo: 'vuepress/vuepress-plugin-smooth-scroll',
 
     editLinks: true,
 
