@@ -1,6 +1,6 @@
 # vuepress-plugin-smooth-scroll
 
-> Migrated to [vuepress-contrib](https://github.com/vuepress/vuepress-contrib)
+> Migrated to [vuepress-community](https://github.com/vuepress/vuepress-community)
 
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-smooth-scroll.svg)](https://www.npmjs.com/package/vuepress-plugin-smooth-scroll)
 [![GitHub](https://img.shields.io/github/license/vuepress/vuepress-plugin-smooth-scroll.svg)](./LICENSE)
